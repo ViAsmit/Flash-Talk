@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "879942710398",
+    "firebase_url": "https://flash-talk-5381e.firebaseio.com",
+    "project_id": "flash-talk-5381e",
+    "storage_bucket": "flash-talk-5381e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879942710398:android:c767016ec52f9bbad3142f",
+        "android_client_info": {
+          "package_name": "com.asmit.flash_talk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879942710398-7gurn90tvj69ffitu2qvd1am3au10ivg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc75_99_C0EuCjY5WEje4NM8yjzRh26r0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879942710398-7gurn90tvj69ffitu2qvd1am3au10ivg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
